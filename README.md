@@ -2,7 +2,7 @@
   
    ![header](https://capsule-render.vercel.app/api?type=wave&height=400&color=gradient&customColorList=2,12,19,24,30&animation=fadeIn&text=Hakuna%20Matata&fontSize=40&fontAlignY=40)
  
-<h4><q> 이런 거 해봤어요 </q> :flushed: </h4>
+<h2> :flushed: </h2>
        <img src="https://img.shields.io/badge/react-FE2E2E?style=for-the-badge&logo=react&logoColor=white"> 
        <img src="https://img.shields.io/badge/TypeScript-FE702E?style=for-the-badge&logo=TypeScript&logoColor=white"/>
        <img src="https://img.shields.io/badge/ReactQuery-FEB22E?style=for-the-badge&logo=ReactQuery&logoColor=black"/>
