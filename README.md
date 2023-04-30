@@ -1,8 +1,7 @@
  <div align=center>
   
-   ![header](https://capsule-render.vercel.app/api?type=Egg&height=400&color=0:FFF,100:FCF2AD)
+   ![header](https://capsule-render.vercel.app/api?type=Egg&height=400&color=0:FFF,100:FCF2AD&animation=fadeIn&text=Hakuna%20Matata&fontSize=40&fontColor=3cb371&fontAlignY=40)
  
-
 <h4><q> 이런 거 해봤어요 </q> :flushed: </h4>
        <img src="https://img.shields.io/badge/react-FE2E2E?style=for-the-badge&logo=react&logoColor=white"> 
        <img src="https://img.shields.io/badge/TypeScript-FE702E?style=for-the-badge&logo=TypeScript&logoColor=white"/>
@@ -22,5 +21,5 @@
 
 
   
-  ![Footer](https://capsule-render.vercel.app/api?type=Egg&color=0:FCF2AD,100:FFF&height=400&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=Egg&color=0:FCF2AD,100:FFF&height=300&section=footer)
 </div>
