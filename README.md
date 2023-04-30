@@ -15,9 +15,9 @@
        <img src="https://img.shields.io/badge/Node.js-28A3D5?style=for-the-badge&logo=Node.js&logoColor=white"/>
        <img src="https://img.shields.io/badge/MicrosoftSQLServer-286FD5?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white"/> 
         <br/>      
+          <br/>
        
-       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MISEONGKIM&layout=compact)](https://github.com/MISEONGKIM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MISEONGKIM&layout=compact&theme=radical&hide_border=true)](https://github.com/MISEONGKIM/github-readme-stats)
 
 
   
