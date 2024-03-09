@@ -2,7 +2,7 @@
   
    ![header](https://capsule-render.vercel.app/api?type=wave&height=400&color=gradient&customColorList=2,12,19,24,30&animation=fadeIn&text=Hakuna%20Matata&fontSize=40&fontAlignY=40)
  
-<h2> :flushed: </h2>
+<h2> :flushed: STACKS </h2>
        <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"> 
        <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"> 
        <br/>
