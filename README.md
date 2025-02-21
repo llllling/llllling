@@ -22,7 +22,7 @@
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white"/> 
 
-### 🎮 Game & Desktop
+### 🎮 Desktop
    <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=white"> 
    <img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=Windows&logoColor=white"/> 
    <img src="https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/> 
